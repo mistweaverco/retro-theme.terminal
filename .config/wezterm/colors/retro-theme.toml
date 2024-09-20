@@ -1,0 +1,15 @@
+# retro-theme
+[colors]
+foreground = "#c8d0e0"
+background = "#1c1e26"
+cursor_bg = "#ffdd33"
+cursor_border = "#ffdd33"
+cursor_fg = "#1c1e26"
+selection_bg = "#336699"
+selection_fg = "#c8d0e0"
+
+ansi = ["#1c1e26", "#ff445d", "#00ff88", "#ffe261", "#00dfff", "#bd93f9", "#00ffbf", "#c8d0e0"]
+brights = ["#4a5a73", "#ff4d6a", "#2ee085", "#ffe07d", "#6cdbff", "#ff57ff", "#9df9ff", "#f8f8f2"]
+
+[metadata]
+name = "retro-theme"
